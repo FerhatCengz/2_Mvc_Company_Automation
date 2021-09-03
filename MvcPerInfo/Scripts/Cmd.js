@@ -1,5 +1,7 @@
 ﻿//todoArray endArray
 
+console.log("deneme _ GİT ");
+
 let trial = document.getElementById("mySelect");
 let selectCount = trial.length;
 
